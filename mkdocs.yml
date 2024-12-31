@@ -28,11 +28,19 @@ extra:
       link: https://www.linkedin.com/in/rakeshkumar1007/
   consent:
     title: Cookie consent
-    description: >- 
+    description: >-
       We use cookies to recognize your repeated visits and preferences, as well
       as to measure the effectiveness of our website and whether users
       find what they're searching for. With your consent, you're helping us to
       make our website better.
+    cookies:
+      analytics:
+          name: Google Analytics
+          checked: true
+      github:
+          name: github
+          checked: true
+
 markdown_extensions:
   - admonition
   - def_list
@@ -51,5 +59,4 @@ plugins:
       raise_error: True
   - search
   - social
-  - optimize
   - privacy
