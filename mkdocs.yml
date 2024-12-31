@@ -1,4 +1,5 @@
 site_name: Rakesh Kumar personal website
+logging_level: info
 # repo_url: https://github.com/rakeshcusat/rakeshcusat.github.io
 copyright: Copyright &copy; 2019 - 2025 Rakesh Kumar
 site_url: https://www.englife101.io/
