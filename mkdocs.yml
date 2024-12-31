@@ -1,11 +1,12 @@
-site_name: Rakesh Kumar personal website
+site_name: Rakesh
 # repo_url: https://github.com/rakeshcusat/rakeshcusat.github.io
 copyright: Copyright &copy; 2019 - 2025 Rakesh Kumar
 site_url: https://www.englife101.io/
 use_directory_urls: false
 theme:
   name: 'material'
-
+  features:
+    - navigation.footer
 nav:
   - Home: index.md
   - Experience: experience.md
@@ -14,12 +15,16 @@ nav:
 
 # Additional configuration
 extra:
+  generator: false
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/rakeshcusat
     - icon: fontawesome/brands/x-twitter
       link: https://x.com/englife101
-
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/englife101
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/rakeshkumar1007/
 markdown_extensions:
   - admonition
   - def_list
