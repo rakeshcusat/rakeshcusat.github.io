@@ -1,0 +1,30 @@
+site_name: Rakesh Kumar personal website
+# repo_url: https://github.com/rakeshcusat/rakeshcusat.github.io
+site_url: https://www.englife101.io/
+use_directory_urls: false
+theme:
+  name: 'material'
+
+nav:
+  - Home: index.md
+  - Experience: experience.md
+  - Projects: projects.md
+  - Public Speaking: public-speaking.md
+
+markdown_extensions:
+  - admonition
+  - def_list
+  - footnotes
+  - pymdownx.critic
+  - pymdownx.details
+  - toc:
+      toc_depth: 4
+      permalink: 🔗
+
+plugins:
+  - awesome-pages
+  - htmlproofer:
+      enabled: True
+      validate_external_urls: True
+      raise_error: True
+  - search
