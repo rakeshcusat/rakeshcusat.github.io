@@ -30,5 +30,6 @@ jobs:
                mkdocs-get-deps \
                mkdocs-htmlproofer-plugin \
                mkdocs-localsearch \
-               mkdocs-material-extensions               
+               mkdocs-material-extensions \
+               mkdocs-material[imaging]
       - run: mkdocs gh-deploy --force

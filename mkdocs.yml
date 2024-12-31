@@ -1,5 +1,4 @@
 site_name: Rakesh Kumar personal website
-logging_level: info
 # repo_url: https://github.com/rakeshcusat/rakeshcusat.github.io
 copyright: Copyright &copy; 2019 - 2025 Rakesh Kumar
 site_url: https://www.englife101.io/
@@ -12,6 +11,14 @@ nav:
   - Experience: experience.md
   - Projects: projects.md
   - Public Speaking: public-speaking.md
+
+# Additional configuration
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/rakeshcusat
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/englife101
 
 markdown_extensions:
   - admonition
@@ -30,3 +37,4 @@ plugins:
       validate_external_urls: True
       raise_error: True
   - search
+  - social
