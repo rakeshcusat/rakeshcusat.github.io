@@ -29,6 +29,9 @@ extra:
       link: https://www.instagram.com/englife101
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/rakeshkumar1007/
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/@englife101
+
   consent:
     title: Cookie consent
     description: >-
