@@ -8,6 +8,9 @@ theme:
   name: 'material'
   features:
     - navigation.footer
+    - search.suggest
+    - search.highlight
+    - search.share
 nav:
   - Home: index.md
   - Experience: experience.md
@@ -58,5 +61,6 @@ plugins:
       validate_external_urls: True
       raise_error: True
   - search
+
   - social
   - privacy
