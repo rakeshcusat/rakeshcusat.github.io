@@ -1,6 +1,6 @@
 # Contacts
 
-you can reach out to me through various social platform or email.
+you can reach out to me through various social platforms or email.
 
 | Platform | Contact Detail |
 | :------- | :------------: |
