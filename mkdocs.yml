@@ -6,6 +6,7 @@ site_url: https://www.englife101.io/
 use_directory_urls: false
 theme:
   name: 'material'
+  favicon: images/englife101-rakesh.webp
   features:
     - navigation.footer
     - search.suggest

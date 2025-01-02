@@ -30,7 +30,7 @@ venv
 
 # Build files
 build
-# site
+site
 
 # Distribution files
 dist
