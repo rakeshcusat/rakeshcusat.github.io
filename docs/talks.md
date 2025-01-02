@@ -13,7 +13,7 @@ You can find my contact details [here](contact.md). I look forward to hearing fr
 
 
 !!! note
-    In case you are an aspring candidate to speak at a conference, You can find the relevant list of [conferences here](https://github.com/rakeshcusat/tech-conference). This is an open source link so your contribution is more than welcome.  
+    In case you are an aspiring candidate to speak at a conference, You can find the relevant list of [conferences here](https://github.com/rakeshcusat/tech-conference). This is an open source link so your contribution is more than welcome.
     
 
 ### Confluent - Current San Jose 2023
