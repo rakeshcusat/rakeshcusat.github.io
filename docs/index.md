@@ -1,7 +1,6 @@
-# Welcome to Rakesh Personal Website
+# Rakesh
 
-
-## About me
+![Image title](images/englife101-rakesh.webp){ align=right width="300" loading=lazy}
 Successfully builds, scales, and leads high-performing software engineering teams, delivering top-notch front-end and back-end functionality for popular mobile application services.
 
 Brings a unique combination of advanced technology degree and 15+ years of full-stack technical expertise, enabling effective leadership of diverse technical teams.
