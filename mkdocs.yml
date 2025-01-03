@@ -14,7 +14,7 @@ theme:
     - search.share
 nav:
   - Home: index.md
-  - Experience: experience.md
+  - Experiences: experiences.md
   - Projects: projects.md
   - Talks: talks.md
   - Contact Me: contact.md
@@ -70,6 +70,7 @@ plugins:
       validate_external_urls: True
       raise_error: True
   - search
-
   - social
   - privacy
+  - git-revision-date-localized:
+      fallback_to_build_date: true
