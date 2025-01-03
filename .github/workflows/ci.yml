@@ -32,4 +32,5 @@ jobs:
                mkdocs-localsearch \
                mkdocs-material-extensions \
                mkdocs-material[imaging]
+               mkdocs-git-revision-date-localized-plugin
       - run: mkdocs gh-deploy --force

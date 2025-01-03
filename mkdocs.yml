@@ -70,6 +70,7 @@ plugins:
       validate_external_urls: True
       raise_error: True
   - search
-
   - social
   - privacy
+  - git-revision-date-localized:
+      fallback_to_build_date: true

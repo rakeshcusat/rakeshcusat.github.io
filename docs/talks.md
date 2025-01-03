@@ -12,28 +12,34 @@ To help me better understand the scope and determine my availability, please sha
 You can find my contact details [here](contact.md). I look forward to hearing from you soon and hopefully collaborating!
 
 
-!!! note
-    In case you are an aspiring candidate to speak at a conference, You can find the relevant list of [conferences here](https://github.com/rakeshcusat/tech-conference). This is an open source link so your contribution is more than welcome.
-    
+???+ note
+    If you're interested in speaking at tech conferences, [this list](https://github.com/rakeshcusat/tech-conference) is a great resource to find relevant events. As an open-source project, contributions are encouraged. 
+## Upcoming Talks
+:construction:
 
-### Confluent - Current San Jose 2023
+## Past Talks
+### Current / Confluent San Jose, USA, 2023
 **Title:**  Evolution of Streaming Pipeline at Lyft
+
 - [Youtube](https://www.confluent.io/events/current/2023/evolution-of-streaming-pipeline-at-lyft/)
 - [Website](https://www.confluent.io/events/current/2023/evolution-of-streaming-pipeline-at-lyft/)
 - [Presentation Slides](https://www.slideshare.net/slideshow/evolution-of-streaming-pipeline-at-lyft/262726387)
 
-### DATA + AI Summit San Francisco 2023
+### DATA + AI Summit / Databricks San Francisco, USA, 2023
 **Title:**  Realtime ML in Marketplace @ Lyft
+
 - [Youtube video](https://www.youtube.com/watch?v=-t5Dt6Gbw90)
 - [Presentation Slides TBD]()
 
 
-### Apache Con/Beam Summit, Las Vegas 2019
+### Beam Summit / Apache Con, Las Vegas, USA, 2019
 **Title:**  Pricing Lyft Rides with Apache Beam
-[youtube video](https://www.youtube.com/watch?v=D_NA-LY1xP0)
 
-### Strata San Francisco 2019
+- [youtube video](https://www.youtube.com/watch?v=D_NA-LY1xP0)
+
+### Strata, San Francisco, USA 2019
 **Title:** The magic behind your Lyft ride prices: A case study on machine learning and streaming
-[Presentation Slides](https://docs.google.com/presentation/d/1MskxMXJnCKCpmWXS3-S_TPZ0Qqs1YB6N/edit?usp=sharing&ouid=103849271438793450736&rtpof=true&sd=true)
+
+- [Presentation Slides](https://docs.google.com/presentation/d/1MskxMXJnCKCpmWXS3-S_TPZ0Qqs1YB6N/edit?usp=sharing&ouid=103849271438793450736&rtpof=true&sd=true)
 
 
