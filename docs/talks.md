@@ -21,14 +21,14 @@ You can find my contact details [here](contact.md). I look forward to hearing fr
 ### Current / Confluent San Jose, USA, 2023
 **Title:**  Evolution of Streaming Pipeline at Lyft
 
-- [Youtube](https://www.confluent.io/events/current/2023/evolution-of-streaming-pipeline-at-lyft/)
+- [YouTube](https://www.confluent.io/events/current/2023/evolution-of-streaming-pipeline-at-lyft/)
 - [Website](https://www.confluent.io/events/current/2023/evolution-of-streaming-pipeline-at-lyft/)
 - [Presentation Slides](https://www.slideshare.net/slideshow/evolution-of-streaming-pipeline-at-lyft/262726387)
 
 ### DATA + AI Summit / Databricks San Francisco, USA, 2023
 **Title:**  Realtime ML in Marketplace @ Lyft
 
-- [Youtube video](https://www.youtube.com/watch?v=-t5Dt6Gbw90)
+- [YouTube video](https://www.youtube.com/watch?v=-t5Dt6Gbw90)
 - [Presentation Slides TBD]()
 
 

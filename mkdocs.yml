@@ -14,7 +14,7 @@ theme:
     - search.share
 nav:
   - Home: index.md
-  - Experience: experience.md
+  - Experiences: experiences.md
   - Projects: projects.md
   - Talks: talks.md
   - Contact Me: contact.md
