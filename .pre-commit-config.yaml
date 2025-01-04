@@ -1,0 +1,115 @@
+repos:
+  - repo: https://github.com/rbubley/mirrors-prettier
+    rev: v3.3.3
+    hooks:
+      - id: prettier
+        types_or:
+          - toml
+          - css
+          - json
+          - json5
+          - yaml
+          - markdown
+        additional_dependencies:
+          - prettier
+          - prettier-plugin-toml
+        minimum_pre_commit_version: 2.9.0
+        exclude: ^locale
+        args:
+          - --cache
+          - --cache-location=.prettier-cache
+          - --ignore-path=.gitignore
+  - repo: https://github.com/mondeja/project-config
+    rev: v0.9.7
+    hooks:
+      - id: project-config
+  - repo: meta
+    hooks:
+      - id: check-hooks-apply
+        name: check-hooks-apply
+      - id: check-useless-excludes
+        name: check-useless-excludes
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.0.0
+    hooks:
+      - id: trailing-whitespace
+        name: trailing-whitespace
+      - id: end-of-file-fixer
+        name: end-of-file-fixer
+  - repo: https://github.com/python-jsonschema/check-jsonschema
+    rev: 0.29.4
+    hooks:
+      - id: check-github-workflows
+        name: check-github-workflows
+        args:
+          - --verbose
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.7.4
+    hooks:
+      - id: ruff
+        args:
+          - --fix
+          - --exit-non-zero-on-fix
+  - repo: https://github.com/pre-commit/mirrors-autopep8
+    rev: v2.0.4
+    hooks:
+      - id: autopep8
+  - repo: https://github.com/mondeja/mdpo
+    rev: v2.1.3
+    hooks:
+      - id: md2po2md
+        files: ^README\.md
+        args:
+          - --no-location
+          - --no-obsolete
+          - --no-empty-msgstr
+          - -l
+          - es
+          - -l
+          - fr
+          - -o
+          - locale/{lang}
+  - repo: https://github.com/mondeja/pre-commit-po-hooks
+    rev: v1.7.3
+    hooks:
+      - id: remove-metadata
+  - repo: https://github.com/adrienverge/yamllint
+    rev: v1.35.1
+    hooks:
+      - id: yamllint
+  - repo: https://github.com/DavidAnson/markdownlint-cli2
+    rev: v0.15.0
+    hooks:
+      - id: markdownlint-cli2
+        name: markdownlint-readme
+        files: ^README.md
+  - repo: https://github.com/editorconfig-checker/editorconfig-checker.python
+    rev: 3.0.3
+    hooks:
+      - id: editorconfig-checker
+        name: editorconfig-checker
+        alias: ec
+  - repo: https://github.com/pre-commit/mirrors-mypy
+    rev: v1.13.0
+    hooks:
+      - id: mypy
+        name: mypy-mkdocs-1.5.0
+        files: ^src
+        additional_dependencies:
+          - mkdocs>=1.5.0,<1.6.0
+          - platformdirs
+          - wcmatch
+  - repo: https://github.com/pre-commit/mirrors-mypy
+    rev: v1.13.0
+    hooks:
+      - id: mypy
+        name: mypy-mkdocs-1.6.0
+        files: ^src
+        additional_dependencies:
+          - mkdocs>=1.6.0,<1.7.0
+          - platformdirs
+          - wcmatch
+  - repo: https://github.com/mondeja/rust-pc-hooks
+    rev: v1.3.0
+    hooks:
+      - id: lychee
