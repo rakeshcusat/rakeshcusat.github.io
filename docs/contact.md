@@ -1,4 +1,4 @@
-# Contacts
+# Contact Me
 
 you can reach out to me through various social platforms or email.
 
