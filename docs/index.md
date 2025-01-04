@@ -1,14 +1,12 @@
 # Rakesh
 
 ![Image title](images/englife101-rakesh.webp){ align=right width="300" loading=lazy}
-Successfully builds, scales, and leads high-performing software engineering teams, delivering top-notch front-end and back-end functionality for popular mobile application services.
+Hey everyone, welcome to my little corner of the internet! I'm Rakesh, a software engineer in this ever-evolving tech world.  Right now, I'm leading the awesome Foundations team at Lyft, where we're tackling everything from real-time feature generation and machine learning platforms to experimentation, forecasting, and growth. It's a mouthful, but basically, we're building the core tech that makes a lot of the magic happen behind the scenes.
 
-Brings a unique combination of advanced technology degree and 15+ years of full-stack technical expertise, enabling effective leadership of diverse technical teams.
+My main passions in tech are AI/ML, crafting robust and scalable services, and diving deep into real-time stream processing. I'm genuinely fascinated by how these technologies are shaping our future.  I've been fortunate enough to share some of my experiences and insights at various [international conferences](talks.md) – I absolutely love connecting with people and geeking out about all things tech.
 
-Utilizes a player/coach approach to mentor, develop, and retain highly skilled engineers in a competitive market.
+You might find a few tech blogs floating around [here too](https://medium.com/@englife101), although I'll admit, consistency isn't my strong suit! It's something I'm working on, so bear with me.  But when I do get around to writing, it's usually about something I'm genuinely excited to share.
 
-Acts as a key architect, designer, and creator of sophisticated software solutions leveraging data science and machine learning techniques, capable of processing millions of real-time events per minute.
+So, feel free to poke around, and if you're into any of the same stuff, or just want to chat, don't hesitate to [reach out](contact.md). I'm always up for a good conversation.
 
-Demonstrates expertise by writing technical blogs and presenting at international conferences, showcasing innovative projects that attract top technical talent.
-
-Provides valuable guidance to startups with limited resources, advising on product development, Minimum Viable Product (MVP) strategies, and rapid iteration techniques.Successfully builds, scales, and leads high-performing software engineering teams, delivering top-notch front-end and back-end functionality for popular mobile application services. Brings a unique combination of advanced technology degree and 15+ years of full-stack technical expertise, enabling effective leadership of diverse technical teams. Utilizes a player/coach approach to mentor, develop, and retain highly skilled engineers in a competitive market. Acts as a key architect, designer, and creator of sophisticated software solutions leveraging data science and machine learning techniques, capable of processing millions of real-time events per minute. Demonstrates expertise by writing technical blogs and presenting at international conferences, showcasing innovative projects that attract top technical talent. Provides valuable guidance to startups with limited resources, advising on product development, Minimum Viable Product (MVP) strategies, and rapid iteration techniques.
+Thank you for stopping by!

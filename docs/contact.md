@@ -1,6 +1,6 @@
-# Contacts
+# Contact Me
 
-you can reach out to me through various social platforms or email.
+ You can find me on the usual social platforms - you know, Twitter, LinkedIn, the usual suspects - or just drop me an email.
 
 | Platform | Contact Detail |
 | :------- | :------------: |
