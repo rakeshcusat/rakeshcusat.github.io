@@ -1,6 +1,6 @@
 # Rakesh Personal Website
 
-This is Rakesh Kumar personal website which is still work in progress.
+This is Rakesh Kumar personal website which is still a work in progress.
 
 ## Development
 
