@@ -15,9 +15,9 @@ Leading foundation org which consists of Machine Learning Platform, Experimentat
 
 ## Location Labs, Emeryville, CA, USA
 ### Engineering Manager (Dec 2015 - Jun 2017)
-Led teams of up to 8 junior-to-senior software engineers across multiple work streams using Java, Firebase, Amplitude, PubNub in Android and IOS environments. Estimated team capacity and resource needs. Recruited, hired, and mentored new engineers, devised career plans and conducted performance reviews. 
+Led teams of up to 8 junior-to-senior software engineers across multiple work streams using Java, Firebase, Amplitude, PubNub in Android and IOS environments. Estimated team capacity and resource needs. Recruited, hired, and mentored new engineers, devised career plans and conducted performance reviews.
 
-Defined multi-year milestones for the projects and drove alignment between different teams across different organizations. Worked closely with customers and product managers to scale services and infrastructure to support millions of active users. 
+Defined multi-year milestones for the projects and drove alignment between different teams across different organizations. Worked closely with customers and product managers to scale services and infrastructure to support millions of active users.
 
 Spearheaded a culture of data-driven decision making based on A/B testing and success metrics in order to meet aggressive release deadlines for new products and features. Planned and project managed delivery of several successful releases of critical features and helped Operations deploy into production. Post go-live collaborated with Operations to analyze and resolve performance and production issues.
 
@@ -27,11 +27,11 @@ Spearheaded a culture of data-driven decision making based on A/B testing and su
 
 
 ### Senior Software Engineer (Feb 2012 - Dec 2015)
-Used Java, Firebase, Amplitude, and PubNub to design and develop location functionalities for Android and iOS devices. Had full control and a wide range of responsibilities for the creation of new features for AT&T’s Family Map and Sprint’s Safe & Found mobile device locator applications. 
+Used Java, Firebase, Amplitude, and PubNub to design and develop location functionalities for Android and iOS devices. Had full control and a wide range of responsibilities for the creation of new features for AT&T’s Family Map and Sprint’s Safe & Found mobile device locator applications.
 
-Worked with backend engineers to make critical API design decisions and with the Q/A team to ensure products met the quality standards for release on Google Play and the Apple App Store. 
+Worked with backend engineers to make critical API design decisions and with the Q/A team to ensure products met the quality standards for release on Google Play and the Apple App Store.
 
-* Integrated 3rd-party services like Qpass, CSI, and 3PP with the applications. 
+* Integrated 3rd-party services like Qpass, CSI, and 3PP with the applications.
 
 * Developed tools using script languages to increase the productivity of developers, QA, and operations and trained new engineers to reduce time-to-productivity.
 
@@ -45,10 +45,10 @@ Developed firmware in Java and C++ to enable features and functions in Motorola�
 
 ## Accord Software & Systems Pvt. Ltd. Bengaluru, India
 ### Software Engineer (Jul 2006 - Aug 2008)
-Built cutting edge firmware in C++ for this 200-person supplier of GPS chipsets to aerospace, automotive and cellular manufacturers that enable finding device location. 
- 
+Built cutting edge firmware in C++ for this 200-person supplier of GPS chipsets to aerospace, automotive and cellular manufacturers that enable finding device location.
+
 * Implemented ASN.1 parser for Secure User Plane Layer (SUPL) V2.0 protocols and designed and implemented SUPL multi-threaded indigenous test server in VC++ to test GPS devices.
 
-* Developed firmware (middleware) SUPL V2.0 module to calculate user location even in absence of GPS satellite and to interact with GPRS module to fetch navigational data from mobile networks. 
+* Developed firmware (middleware) SUPL V2.0 module to calculate user location even in absence of GPS satellite and to interact with GPRS module to fetch navigational data from mobile networks.
 
 * Modified core code to comply with Motor Industry Software Reliability Association standards that increased portability of the software to 98% and worked on development of the algorithm for extending the life of GPS ephemeral data.

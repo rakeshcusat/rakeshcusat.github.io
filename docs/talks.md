@@ -13,7 +13,7 @@ You can find my contact details [here](contact.md). I look forward to hearing fr
 
 
 ???+ note
-    If you're interested in speaking at tech conferences, [this list](https://github.com/rakeshcusat/tech-conference) is a great resource to find relevant events. As an open-source project, contributions are encouraged. 
+    If you're interested in speaking at tech conferences, [this list](https://github.com/rakeshcusat/tech-conference) is a great resource to find relevant events. As an open-source project, contributions are encouraged.
 ## Upcoming Talks
 :construction:
 
@@ -41,5 +41,3 @@ You can find my contact details [here](contact.md). I look forward to hearing fr
 **Title:** The magic behind your Lyft ride prices: A case study on machine learning and streaming
 
 - [Presentation Slides](https://docs.google.com/presentation/d/1MskxMXJnCKCpmWXS3-S_TPZ0Qqs1YB6N/edit?usp=sharing&ouid=103849271438793450736&rtpof=true&sd=true)
-
-
