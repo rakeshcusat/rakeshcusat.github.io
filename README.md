@@ -25,9 +25,10 @@ pip install -r requirements.txt
 pre-commit install
 ```
 
-5. Run the following command to run the pre-commit before commiting any changes.
-```shell
+5. Once  this is done the `pre-commit` command will automatically execute before `git commit` command. In case you want to manually run it you can run this command:
 
+```shell
+pre-commit run --all-files
 ```
 
 ## Build locally
