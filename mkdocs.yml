@@ -5,7 +5,7 @@ copyright: Copyright &copy; 2019 - 2025 Rakesh Kumar –
 site_url: https://www.englife101.io/
 use_directory_urls: false
 theme:
-  name: 'material'
+  name: "material"
   favicon: images/englife101-rakesh.webp
   features:
     - navigation.footer
@@ -43,11 +43,11 @@ extra:
       make our website better.
     cookies:
       analytics:
-          name: Google Analytics
-          checked: true
+        name: Google Analytics
+        checked: true
       github:
-          name: github
-          checked: true
+        name: github
+        checked: true
 
 markdown_extensions:
   - attr_list
