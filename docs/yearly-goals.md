@@ -4,19 +4,19 @@ I'm documenting my yearly goals here to stay accountable. My initial focus is on
 
 ## 2025
 
-- Publish engineering blogs
-  - At least one engineering blog at Lyft.
-  - At least one engineering blog through well known publisher available on Medium platform. Guys help me out to find a good publishers that covers realtime system and MLOps.
-- Apply for a Patent
-- Finish reading these books
-  - [AI Engineering Book by Chip Hyuen](https://a.co/d/1yFRjhV)
-- Connect with at least one person who is working in AI/ML domain. Mainly to learn from his/her experince.
-- Presented at an international conference with a primary focus on MLOps.
+- [ ] Publish engineering blogs
+    - [ ] At least one engineering blog at Lyft.
+    - [ ] At least one engineering blog through well known publisher available on Medium platform. Help me find good publishers that cover realtime system and MLOps.
+- [ ] Apply for a Patent
+- [ ] Read these books
+    - [ ] [AI Engineering Book by Chip Hyuen](https://a.co/d/1yFRjhV)
+- [ ] Connect with at least one person who is working in AI/ML domain. Mainly to learn from his/her experience.
+- [ ] Presented at an international conference with a primary focus on MLOps.
 
 ## 2024
 
-- ~~Finish reading these books~~
-  - [Designing Machine Learning Systems by Chip Hyuen](https://a.co/d/53xfE7T).
-  - [Fundamentals of Data Engineering by Joe Reis & Matt Housley](https://a.co/d/6yU0UaA).
-- Write at least one Engineering Blog :(
-- Share expertise on best practices for real-time ML feature generation through a conference presentation :(
+- [x] Read these books
+    - [x] [Designing Machine Learning Systems by Chip Hyuen](https://a.co/d/53xfE7T).
+    - [x] [Fundamentals of Data Engineering by Joe Reis & Matt Housley](https://a.co/d/6yU0UaA).
+- [ ] Write at least one Engineering Blog :disappointed:
+- [ ] Share expertise on best practices for real-time ML feature generation through a conference presentation :disappointed:
