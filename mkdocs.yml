@@ -8,6 +8,7 @@ theme:
   name: "material"
   favicon: images/englife101-rakesh.webp
   features:
+    - navigation.tabs
     - navigation.footer
     - search.suggest
     - search.highlight
