@@ -1,80 +1,88 @@
 site_name: Rakesh
 # repo_url: https://github.com/rakeshcusat/rakeshcusat.github.io
 copyright: Copyright &copy; 2019 - 2025 Rakesh Kumar –
-  <a href="#__consent">Change cookie settings</a>
+    <a href="#__consent">Change cookie settings</a>
 site_url: https://www.englife101.io/
 use_directory_urls: false
 theme:
-  name: "material"
-  favicon: images/englife101-rakesh.webp
-  features:
-    - navigation.footer
-    - search.suggest
-    - search.highlight
-    - search.share
+    name: "material"
+    favicon: images/englife101-rakesh.webp
+    features:
+        - navigation.tabs
+        - navigation.footer
+        - search.suggest
+        - search.highlight
+        - search.share
 nav:
-  - Home: index.md
-  - Experiences: experiences.md
-  - Projects: projects.md
-  - Talks: talks.md
-  - Contact Me: contact.md
+    - Home: index.md
+    - Experiences: experiences.md
+    - Projects: projects.md
+    - Talks: talks.md
+    - Yearly Goals: yearly-goals.md
+    - Contact Me: contact.md
 
 # Additional configuration
 extra:
-  generator: false
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/rakeshcusat
-    - icon: fontawesome/brands/x-twitter
-      link: https://x.com/englife101
-    - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/englife101
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/rakeshkumar1007/
-    - icon: fontawesome/brands/medium
-      link: https://medium.com/@englife101
+    generator: false
+    social:
+        - icon: fontawesome/brands/github
+          link: https://github.com/rakeshcusat
+        - icon: fontawesome/brands/x-twitter
+          link: https://x.com/englife101
+        - icon: fontawesome/brands/instagram
+          link: https://www.instagram.com/englife101
+        - icon: fontawesome/brands/linkedin
+          link: https://www.linkedin.com/in/rakeshkumar1007/
+        - icon: fontawesome/brands/medium
+          link: https://medium.com/@englife101
 
-  analytics:
-    provider: google
-    property: G-VVBV71BND1
+    analytics:
+        provider: google
+        property: G-VVBV71BND1
 
-  consent:
-    title: Cookie consent
-    description: >-
-      We use cookies to recognize your repeated visits and preferences, as well
-      as to measure the effectiveness of our website and whether users
-      find what they're searching for. With your consent, you're helping us to
-      make our website better.
-    cookies:
-      analytics:
-        name: Google Analytics
-        checked: true
-      github:
-        name: github
-        checked: true
+    consent:
+        title: Cookie consent
+        description: >-
+            We use cookies to recognize your repeated visits and preferences, as well
+            as to measure the effectiveness of our website and whether users
+            find what they're searching for. With your consent, you're helping us to
+            make our website better.
+        cookies:
+            analytics:
+                name: Google Analytics
+                checked: true
+            github:
+                name: github
+                checked: true
 
 markdown_extensions:
-  - attr_list
-  - admonition
-  - def_list
-  - footnotes
-  - pymdownx.critic
-  - pymdownx.details
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  - toc:
-      toc_depth: 4
-      permalink: 🔗
+    - attr_list
+    - admonition
+    - def_list
+    - footnotes
+    - pymdownx.critic
+    - pymdownx.caret
+    - pymdownx.keys
+    - pymdownx.tasklist:
+          custom_checkbox: true
+    - pymdownx.mark
+    - pymdownx.tilde
+    - pymdownx.details
+    - pymdownx.emoji:
+          emoji_index: !!python/name:material.extensions.emoji.twemoji
+          emoji_generator: !!python/name:material.extensions.emoji.to_svg
+    - toc:
+          toc_depth: 4
+          permalink: 🔗
 
 plugins:
-  - awesome-pages
-  - htmlproofer:
-      enabled: True
-      validate_external_urls: True
-      raise_error: True
-  - search
-  - social
-  - privacy
-  - git-revision-date-localized:
-      fallback_to_build_date: true
+    - awesome-pages
+    - htmlproofer:
+          enabled: True
+          validate_external_urls: True
+          raise_error: True
+    - search
+    - social
+    - privacy
+    - git-revision-date-localized:
+          fallback_to_build_date: true
