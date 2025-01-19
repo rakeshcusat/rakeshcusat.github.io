@@ -18,7 +18,7 @@
 
 ### Senior Software Engineer (Jun 2017 - Mar 2020 )
 
-- Owned dynamic pricing systems and led reliability efforts including implementing proactive monitoring, automated failover mechanism, and various optimization stratgies. Resulting in 99.99% uptime during peak events like New Year Eve, Supoer bowl etc.
+- Owned dynamic pricing systems and led reliability efforts including implementing proactive monitoring, automated failover mechanism, and various optimization strategies. Resulting in 99.99% uptime during peak events like New Year Eve, Supoer bowl etc.
 - Re-Architected dynamic pricing system to scale up in the face of rapid growth using new technology streaming processing (Apache Beam/ Apache Flink).
 - Led a cross-functional team of 3 engineers through multi-year project exection, from ideation and proof-of-concept to production rollout. Successfully negotiated with infrastructure teams to prioritize key dependencies in their roadmap, ensuring timely delivery of this multi-year project.
 - Reduced the end-to-end latency by 50% and infrastructure cost by 20%, resulting in annual savings of $1.2M.
