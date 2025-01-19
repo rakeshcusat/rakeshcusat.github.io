@@ -4,18 +4,24 @@
 
 ### Senior Staff Software Engineer (Apr 2023 - Present)
 
-Leading foundation org which consists of Machine Learning Platform, Experimentation, Realtime optimization + forecasting, and Growth platform teams.
+- Defined the technical vision and strategy for a 50-person engineering organization encompassing machine learning platforms, experimentation, real-time optimization and forecasting, and growth platforms. Drove organizational alignment and execution towards key objectives.
+- Led cross-functional initiatives involving multiple engineering and product organizations, resulting in a 20% improvement in platform performance.
+- Developed and launched three critical platform teams that are now essential to over 50 product teams, enabling them to reduce time-to-market for new features, test their feature confidently in production, improve system scalability and reliability
 
 ### Staff Software Engineer (Jan 2020 - Apr 2023 )
 
-- Created streaming based realtime infra which generates Machine Learning features in realtime that powers business critical products at Marketplace.
-- Grew team from 2 engineers to 15 engineers
+- Developed a real-time machine learning feature generation platform that improved the performance and efficiency of critical Marketplace products, including surge pricing, offer generation, and dispatch.
+- Collaberated with ML engineer and built real-time forecasting service that optimized surge pricing, supply management, and dispatch, leading to $1 PMM.
+- Grew the engineering team from 3 to 15 members within 2 years by actively recruiting top talent and mentoring existing engineers.
+- Mentored and guided multiple engineers in their career progression, enabling them to advance from mid-level to staff-level positions. Developed and implemented a mentorship program for the broader engineering organization to foster talent development and knowledge sharing.
+- Successfully collaborated with a globally distributed engineering team across multiple time zones, effectively leveraging communication tools and agile methodologies to ensure seamless project execution.
 
 ### Senior Software Engineer (Jun 2017 - Mar 2020 )
 
-- Owned dynamic pricing systems & led reliability effort to ensure smooth operation during peak events.
-- Re-Architected dynamic pricing system to scale up in the face of rapid growth using new technology streaming processing (Apache Beam). Reduced the end-to-end latency by 50%.
-- Collaborated with other infrastructure teams to launch the new system and scale it to all regions.
+- Owned dynamic pricing systems and led reliability efforts including implementing proactive monitoring, automated failover mechanism, and various optimization stratgies. Resulting in 99.99% uptime during peak events like New Year Eve, Supoer bowl etc.
+- Re-Architected dynamic pricing system to scale up in the face of rapid growth using new technology streaming processing (Apache Beam/ Apache Flink).
+- Led a cross-functional team of 3 engineers through multi-year project exection, from ideation and proof-of-concept to production rollout. Successfully negotiated with infrastructure teams to prioritize key dependencies in their roadmap, ensuring timely delivery of this multi-year project.
+- Reduced the end-to-end latency by 50% and infrastructure cost by 20%, resulting in annual savings of $1.2M.
 
 ## Location Labs, Emeryville, CA, USA
 
