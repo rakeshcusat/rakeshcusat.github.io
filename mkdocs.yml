@@ -16,7 +16,6 @@ theme:
 nav:
     - Home: index.md
     - Experiences: experiences.md
-    - Projects: projects.md
     - Talks: talks.md
     - Yearly Goals: yearly-goals.md
     - Contact Me: contact.md
