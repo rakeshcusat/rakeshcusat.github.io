@@ -55,6 +55,8 @@ Worked with backend engineers to make critical API design decisions and with the
 
 Developed firmware in Java and C++ to enable features and functions in Motorola’s line of Android-based cellular phones including the popular Razr. Accountable for the core Communication Driver modules that handled calls, call forwarding, messaging, and managing SMS. Ported existing driver features from the legacy platform to Android framework.
 
+- Led the development of core communication software: As a key member of the engineering team, you spearheaded the development and implementation of the communication stack, enabling seamless connectivity to mobile networks and ensuring reliable data transfer for applications.
+- Re-architected the communication module: You undertook a complete rewrite of the communication module, optimizing it for Android OS compatibility and enhancing its performance and stability. This involved designing and building new modules to support essential Android functionalities.
 - Integrated Wi-Fi (802.11) drivers provided by different vendors (i.e., TI, Qualcomm) into the motherboard set up and developed a Soft Access Point feature (hotspot) for Wi-Fi applications.
 
 ## Accord Software & Systems Pvt. Ltd. Bengaluru, India
