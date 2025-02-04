@@ -20,7 +20,7 @@
 
 - Owned dynamic pricing systems and led reliability efforts including implementing proactive monitoring, automated failover mechanism, and various optimization strategies. Resulting in 99.99% uptime during peak events like New Year Eve, Supoer Bowl etc.
 - Re-Architected dynamic pricing system to scale up in the face of rapid growth using new technology streaming processing (Apache Beam/ Apache Flink).
-- Led a cross-functional team of 3 engineers through multi-year project exection, from ideation and proof-of-concept to production rollout. Successfully negotiated with infrastructure teams to prioritize key dependencies in their roadmap, ensuring timely delivery of this multi-year project.
+- Led a cross-functional team of 3 engineers through multi-year project execution, from ideation and proof-of-concept to production rollout. Successfully negotiated with infrastructure teams to prioritize key dependencies in their roadmap, ensuring timely delivery of this multi-year project.
 - Reduced the end-to-end latency by 50% and infrastructure cost by 20%, resulting in annual savings of $1.2M.
 
 ## Location Labs, Emeryville, CA, USA
