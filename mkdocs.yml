@@ -53,7 +53,8 @@ extra:
             github:
                 name: github
                 checked: true
-
+extra_css:
+    - stylesheets/extra.css
 markdown_extensions:
     - attr_list
     - admonition
