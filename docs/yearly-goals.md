@@ -13,7 +13,7 @@ I'm documenting my yearly goals here to stay accountable. My initial focus is on
     - [ ] [Generative AI on AWS by Chris Fregly, Antje Barth & Shelbee Eigenbrode](https://a.co/d/3bz4c1w)
     - [ ] [Hands-On Large Language Models by Jay Alammar & Maarten Grootendorst](https://a.co/d/eTCQLsw)
 - [ ] Connect with at least one person who is working in AI/ML domain. Mainly to learn from his/her experience.
-- [ ] Presented at an international conference with a primary focus on MLOps.
+- [ ] Present at an international conference with a primary focus on MLOps.
 
 ## 2024
 
