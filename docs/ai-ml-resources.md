@@ -11,7 +11,10 @@ This page is a collection of AI/ML resources that I update regularly. Feel free 
 
 ### MLOPs
 
-- [Generative AI on AWS by Chris Fregly, Antje Barth & Shelbee Eigenbrode](https://a.co/d/3bz4c1w)
+- [Generative AI on AWS by Chris Fregly, Antje Barth & Shelbee Eigenbrode](https://a.co/d/3bz4c1w): This is a great book that talks covers the following topics
+    - Various MLOPS services available in AWS ecosystem.
+    - High level concepts in LLM with enough level of depth.
+    - Various use cases of LLM with code snippet that has used from various open soruced LLM.
 - [Designing Machine Learning Systems by Chip Huyen](https://a.co/d/53xfE7T)
 
 ## Important Papers
