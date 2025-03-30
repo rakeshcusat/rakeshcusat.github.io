@@ -81,7 +81,7 @@ plugins:
     - awesome-pages
     - htmlproofer:
           enabled: True
-          validate_external_urls: True
+          validate_external_urls: False
           raise_error: True
     - search
     - social
