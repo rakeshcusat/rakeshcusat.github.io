@@ -12,6 +12,9 @@ I'm documenting my yearly goals here to stay accountable. My initial focus is on
     - [ ] [AI Engineering Book by Chip Huyen](https://a.co/d/1yFRjhV)
     - [x] [Generative AI on AWS by Chris Fregly, Antje Barth & Shelbee Eigenbrode](https://a.co/d/3bz4c1w)
     - [ ] [Hands-On Large Language Models by Jay Alammar & Maarten Grootendorst](https://a.co/d/eTCQLsw)
+- [ ] Read these papers
+    - [x] [Model Cards for Model Reporting](https://arxiv.org/pdf/1810.03993)
+    - [x] [Machine Learning: The High-Interest Credit Card of Technical Debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
 - [ ] Connect with at least one person who is working in AI/ML domain. Mainly to learn from his/her experience.
 - [ ] Present at an international conference with a primary focus on MLOps.
 
