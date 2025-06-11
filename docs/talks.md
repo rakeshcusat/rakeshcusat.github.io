@@ -1,6 +1,7 @@
 # Public Speaking
 
 I love to speak at conferences to share my knowledge with like minded people. I have listed down some of the past talks and upcoming talks for reference.
+I also write engineering blogs which you can find [here](https://eng.lyft.com/search?q=rakesh).
 
 ## Invite me to speak
 
@@ -18,7 +19,11 @@ You can find my contact details [here](contact.md). I look forward to hearing fr
 
 ## Upcoming Talks
 
-:construction:
+### Beam Summit New York, USA, 2025
+
+**Title:** Scaling Real-Time Feature Generation Platform @ Lyft
+
+- [website](https://beamsummit.org/sessions/2025/scaling-real-time-feature-generation-platform-lyft/)
 
 ## Past Talks
 

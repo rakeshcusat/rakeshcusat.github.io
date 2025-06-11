@@ -17,6 +17,7 @@ nav:
     - Home: index.md
     - Experiences: experiences.md
     - Talks: talks.md
+    - Blogs: blogs.md
     - AI/ML Resources: ai-ml-resources.md
     - Judging / Review: judging-review.md
     - Yearly Goals: yearly-goals.md
@@ -89,3 +90,6 @@ plugins:
     - privacy
     - git-revision-date-localized:
           fallback_to_build_date: true
+    - redirects:
+          redirect_maps:
+              "blogs.md": "https://englife101.medium.com/"

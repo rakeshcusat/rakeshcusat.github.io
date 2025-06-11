@@ -31,6 +31,7 @@ jobs:
                   mkdocs-htmlproofer-plugin \
                   mkdocs-localsearch \
                   mkdocs-material-extensions \
-                  mkdocs-material[imaging]
-                  mkdocs-git-revision-date-localized-plugin
+                  mkdocs-material[imaging] \
+                  mkdocs-git-revision-date-localized-plugin \
+                  mkdocs-redirects
             - run: mkdocs gh-deploy --force

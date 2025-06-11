@@ -8,8 +8,17 @@ I welcome opportunities to contribute as a judge or reviewer. Please contact me 
 
 ## Past Engagements
 
+- Conference Paper Review
+
+    - International Conference on Machine Learning (ICML) 2025 Workshop WCUA Reviewers
+    - International Conference on Machine Learning (ICML) 2025 Workshop MUGen Reviewers
+
 - Book Review
+
     - [System Design on AWS](https://a.co/d/gwYwJM7)
+
 - Hackthon Judging
+    - [Beam College Hackathon](https://beamcollege.dev/hackathon/), May, 2025
+    - [r/AI_Agents 100k Hackathon!](https://lu.ma/ai-agents-hackathon), May 21, 2025
     - Lyft Hackathon 2025
     - NextNice 2025
