@@ -38,3 +38,10 @@ This section contains the various engineering blogs links specifically around AI
 - [Pinterest engineering blog](https://medium.com/pinterest-engineering/tagged/machine-learning)
 - [Robinhood engineering blog](https://medium.com/robinhood-engineering/eng/home)
 - [Uber engineering blogs](https://www.uber.com/blog/engineering/data/)
+
+## Podcasts
+
+In case you are an avid podcast listener, this could be your list.
+
+- [MLOps Community](https://mlops.community/)
+- [Datacamp](https://www.datacamp.com/)
